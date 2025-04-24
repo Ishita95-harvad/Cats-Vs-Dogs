@@ -1,2 +1,2 @@
-# Cats-Vs-Dogs
+# Eye Image Dataset
 Cats Vs Dogs
